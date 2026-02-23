@@ -1,3 +1,4 @@
+
 # learning-before-understanding
 
 most of the time,
@@ -9,4 +10,4 @@ break it.
 run it again.
 
 eventually,
-the pattern reveals itself.
+the pattern reveals itself. Always!
