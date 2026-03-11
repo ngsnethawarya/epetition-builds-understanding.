@@ -7,7 +7,7 @@ understanding doesn’t come first.
 execution does.
 run it.
 break it.
-run it again.
 
+run it again.
 eventually,
 the pattern reveals itself. Always!
